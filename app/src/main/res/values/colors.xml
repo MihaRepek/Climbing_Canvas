@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Modern Climbing Palette -->
+    <color name="primary">#2D5A27</color> <!-- Forest Green -->
+    <color name="primaryContainer">#D1E8CF</color>
+    <color name="secondary">#56624B</color>
+    <color name="tertiary">#386567</color> <!-- Teal -->
+    <color name="error">#BA1A1A</color>
+
+    <color name="background">#FBFCF8</color> <!-- Off White -->
+    <color name="surface">#FBFCF8</color>
+    <color name="surfaceVariant">#E1E4D5</color>
+
+    <color name="outline">#75796C</color>
+
+    <!-- Gradient Colors -->
+    <color name="bg_gradient_start">#F2F4F1</color>
+    <color name="bg_gradient_end">#E8EBE6</color>
+
+    <!-- Hold Type Colors (More realistic/vibrant for spray walls) -->
+    <color name="hold_start">#2E7D32</color> <!-- Deep Green -->
+    <color name="hold_top">#C62828</color>   <!-- Deep Red -->
+    <color name="hold_hand">#1565C0</color>  <!-- Darker Blue -->
+    <color name="hold_foot">#F9A825</color>  <!-- Golden Yellow -->
+</resources>
